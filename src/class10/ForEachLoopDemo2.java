@@ -6,24 +6,22 @@ public class ForEachLoopDemo2 {
 
         int[] arr={10,13,20,25,45,50};
         //Print only the odd numbers from this array with the help of normal for loop
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i]%2!=0){
+        for (int i=0;i<arr.length;i++){
+            if(arr[i]%2!=0){
                 System.out.println(arr[i]);
             }
         }
         // arr[1]=0 ; This is how we update a single element in an array
         //Replace all the odd numbers in this array with the help of normal loop
-        for (int i = 0; i < arr.length; i++) {
+        for (int i=0; i<arr.length;i++){
             if(arr[i]%2!=0){
                 arr[i]=0;
             }
         }
-        for (int i = 0; i < arr.length; i++) {
+        System.out.println("After replacing all odd numbers with zero");
+        for (int i=0;i<arr.length;i++){
             System.out.println(arr[i]);
-
         }
-
-
 
 
 

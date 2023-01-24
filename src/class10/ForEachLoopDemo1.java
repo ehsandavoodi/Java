@@ -5,9 +5,8 @@ public class ForEachLoopDemo1 {
 
         String [] names={"Slava","Saud","Nabi","Fizzy"};
 
-        for(String i:names){
-            System.out.println(i);
-
-        }
+     for (String name:names){
+         System.out.println(name);
+     }
     }
 }
