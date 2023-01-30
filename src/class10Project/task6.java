@@ -1,4 +1,4 @@
-package Project;
+package class10Project;
 
 public class task6 {
     /*6)Write a program to swap 2 numbers without a temporary variable? */

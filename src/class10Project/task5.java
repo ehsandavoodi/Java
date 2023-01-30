@@ -1,4 +1,4 @@
-package Project;
+package class10Project;
 
 public class task5 {
     /*5)Create a 2D array of integers. Develop a program which will calculate the sum of  even and odd numbers for that array.*/

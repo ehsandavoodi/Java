@@ -1,6 +1,4 @@
-package Project;
-
-import java.util.Scanner;
+package class10Project;
 
 public class task8 {
     public static void main(String[] args) {

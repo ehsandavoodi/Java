@@ -1,4 +1,4 @@
-package Project;
+package class10Project;
 
 public class task4 {
     /*Create a 2D array or integer type where you will store odd and even numbers.

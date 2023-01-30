@@ -1,4 +1,4 @@
-package Project;
+package class10Project;
 
 public class task10 {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package Project;
-
-import java.util.Scanner;
+package class10Project;
 
 public class task3 {
     /*Create a 2D array of integer values. Print the sum of all numbers*/
